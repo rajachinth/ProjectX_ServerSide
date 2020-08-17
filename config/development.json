@@ -1,0 +1,4 @@
+{
+    "KEY":"XX0X0745",
+    "DB_LINK":"mongodb://localhost:<port_number>/<collection_name>"
+}
